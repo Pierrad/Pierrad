@@ -1,31 +1,31 @@
 # Hi 👋
 
-## Projets personnels
+## Personal projects
 
-### Les plus gros projets sont :
+### The biggest projects are :
 - Python
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Numbers">ML_DL/Numbers</a>
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Jeu Bazar Bizarre Version Star Wars</a> 
+  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Star Wars BazarBizarre Game</a> 
 - Android
-  - <a href="https://github.com/Pierrad/AppBirthday">AppBirthday en React-Native</a>
+  - <a href="https://github.com/Pierrad/AppBirthday">AppBirthday in React-Native</a>
 - Javascript
   - <a href = "https://github.com/Pierrad/Tetris_NodeJS"> Tetris Online</a>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a><br>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
 ### Les projets :
-- <a href="https://github.com/Pierrad/Programmation/tree/master/Electron">Electron</a> (Une GUI pour le projet AutoCompressPDF en python)
+- <a href="https://github.com/Pierrad/Programmation/tree/master/Electron">Electron</a> (A GUI for the python project "AutoCompressPDF)
 - <a>Python </a>
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">ML_DL/Stock_Prediction</a> (Une IA type LSTM qui permet de prédire les futures valeurs d'une action bancaire)
-  - <a href="https://github.com/Pierrad/AutoCompressPDF_Python"> AutoCompressPDF</a> (Un programme permettant de compresser automatiquement tout les PDF's d'un dossier)
-  - <a href= "https://github.com/Pierrad/Sudoku_Python"> Sudoku </a> (Création et résolution automatique de Sudoku)
-  - <a href = "https://github.com/Pierrad/Assistant_Python"> Assistant </a> (Assistant personnel capable de remplir quelques tâches avec reconnaissance vocal)
-  - <a href = "https://github.com/Pierrad/IA_Python/tree/master/Numbers"> ML_DL/Numbers </a>(Un réseau de neurone avec ou sans convolution pour reconnaître des chiffres sans librairie externe de Machine Learning / Deep Learning)
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Jeu Bazar Bizarre Version Star Wars</a> (Implémentation du Jeu Bazar Bizarre en GUI avec le module Turtle)
+  - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">ML_DL/Stock_Prediction</a> (An IA type LSTM that allows to predict the future value of a bank share.)
+  - <a href="https://github.com/Pierrad/AutoCompressPDF_Python"> AutoCompressPDF</a> (A program to automatically compress all PDF's in a folder)
+  - <a href= "https://github.com/Pierrad/Sudoku_Python"> Sudoku </a> (Automatic Sudoku creation and resolution)
+  - <a href = "https://github.com/Pierrad/Assistant_Python"> Assistant </a> (Personal assistant capable of performing some tasks with speech recognition)
+  - <a href = "https://github.com/Pierrad/IA_Python/tree/master/Numbers"> ML_DL/Numbers </a>(A neural network with or without convolution to recognize numbers without an external Machine Learning / Deep Learning library.)
+  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Star Wars BazarBizarre Game</a> (Implementation of BazarBizarre Game in GUI with the Turtle module)
 - <a> Android </a> (React-Native)
-  - <a href ="https://github.com/Pierrad/AppBirthday">AppBirthday</a> (Application React-Native proposant un widget dynamique (dont le code provient du projet WidgetIsa), un système de Notification Push et Locale avec Firebase Messaging et la possibilité de rajouter des éléments à la base de données Firestore pour rajouter ces éléments dans la base de données locale Realm qui seront affichés dans l'application)
+  - <a href ="https://github.com/Pierrad/AppBirthday">AppBirthday</a> (React-Native application offering a dynamic widget, a Push and Local Notification system with Firebase Messaging and the possibility to add elements to the Firestore database to add these elements to the local Realm database that will be displayed in the application.)
 - JavaScript 
-  - <a href = "https://github.com/Pierrad/Programmation/tree/master/Javascript/Tetris"> Tetris Online</a> (création d'une version jouable à deux du célèbre jeux Tetris via un serveur NodeJS et SocketIo) 
+  - <a href = "https://github.com/Pierrad/Programmation/tree/master/Javascript/Tetris"> Tetris Online</a> (Creation of a playable version for two of the famous Tetris game via a NodeJS and SocketIo server) 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a>
 - HTML&CSS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_HTML_CSS"> FreeCodeCamp Responsive Web Design Certification </a>
