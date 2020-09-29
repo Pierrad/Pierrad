@@ -22,7 +22,7 @@
   - <a href = "https://github.com/Pierrad/Assistant_Python"> Assistant </a> (Assistant personnel capable de remplir quelques tâches avec reconnaissance vocal)
   - <a href = "https://github.com/Pierrad/IA_Python/tree/master/Numbers"> ML_DL/Numbers </a>(Un réseau de neurone avec ou sans convolution pour reconnaître des chiffres sans librairie externe de Machine Learning / Deep Learning)
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Jeu Bazar Bizarre Version Star Wars</a> (Implémentation du Jeu Bazar Bizarre en GUI avec le module Turtle)
-- <a href="https://github.com/Pierrad/Programmation/tree/master/Android"> Android </a> (React-Native)
+- <a> Android </a> (React-Native)
   - <a href ="https://github.com/Pierrad/AppBirthday">AppBirthday</a> (Application React-Native proposant un widget dynamique (dont le code provient du projet WidgetIsa), un système de Notification Push et Locale avec Firebase Messaging et la possibilité de rajouter des éléments à la base de données Firestore pour rajouter ces éléments dans la base de données locale Realm qui seront affichés dans l'application)
 - JavaScript 
   - <a href = "https://github.com/Pierrad/Programmation/tree/master/Javascript/Tetris"> Tetris Online</a> (création d'une version jouable à deux du célèbre jeux Tetris via un serveur NodeJS et SocketIo) 
