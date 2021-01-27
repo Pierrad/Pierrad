@@ -6,7 +6,7 @@
 - Python
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Numbers">ML_DL/Numbers</a>
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Star Wars BazarBizarre Game</a> 
+  - <a href="https://github.com/Pierrad/Programmation/tree/master/Python/BazarBizarre"> Star Wars BazarBizarre Game</a> 
 - Android
   - <a href="https://github.com/Pierrad/AppBirthday">AppBirthday in React-Native</a>
 - Javascript
@@ -21,7 +21,7 @@
   - <a href= "https://github.com/Pierrad/Sudoku_Python"> Sudoku </a> (Automatic Sudoku creation and resolution)
   - <a href = "https://github.com/Pierrad/Assistant_Python"> Assistant </a> (Personal assistant capable of performing some tasks with speech recognition)
   - <a href = "https://github.com/Pierrad/IA_Python/tree/master/Numbers"> ML_DL/Numbers </a>(A neural network with or without convolution to recognize numbers without an external Machine Learning / Deep Learning library.)
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/BazarBizarre"> Star Wars BazarBizarre Game</a> (Implementation of BazarBizarre Game in GUI with the Turtle module)
+  - <a href="https://github.com/Pierrad/Programmation/tree/master/Python/BazarBizarre"> Star Wars BazarBizarre Game</a> (Implementation of BazarBizarre Game in GUI with the Turtle module)
 - <a> Android </a> (React-Native)
   - <a href ="https://github.com/Pierrad/AppBirthday">AppBirthday</a> (React-Native application offering a dynamic widget, a Push and Local Notification system with Firebase Messaging and the possibility to add elements to the Firestore database to add these elements to the local Realm database that will be displayed in the application.)
 - JavaScript 
