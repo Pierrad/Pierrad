@@ -13,7 +13,7 @@
   - <a href = "https://github.com/Pierrad/Tetris_NodeJS"> Tetris Online</a>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a><br>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
-### Les projets :
+### Projects :
 - <a href="https://github.com/Pierrad/Programmation/tree/master/Electron">Electron</a> (A GUI for the python project "AutoCompressPDF)
 - <a>Python </a>
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">ML_DL/Stock_Prediction</a> (An IA type LSTM that allows to predict the future value of a bank share.)
