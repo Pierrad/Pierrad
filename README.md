@@ -27,7 +27,7 @@
 - JavaScript 
   - <a href = "https://github.com/Pierrad/Programmation/tree/master/Javascript/Tetris"> Tetris Online</a> (Creation of a playable version for two of the famous Tetris game via a NodeJS and SocketIo server) 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a>
-- HTML&CSS 
+- HTML & CSS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_HTML_CSS"> FreeCodeCamp Responsive Web Design Certification </a>
   - <a href="https://www.frontendmentor.io/challenges"> Frontend Mentor </a>
     - <a href="https://github.com/Pierrad/FrontendMentor_ProfileCard"> Frontend Mentor ProfileCard challenge </a>
@@ -36,7 +36,7 @@
 - ReactJS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
 - CodinGame
-  - Lvl 13 (Python & Javascript) 
+  - Lvl 14 (Python & Javascript) 
   - Coders Strike Back League Gold
   - https://www.codingame.com/profile/e39c47b6d62de02097ac0e23966fbd203133923
   
