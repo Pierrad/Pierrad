@@ -29,6 +29,10 @@
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a>
 - HTML&CSS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_HTML_CSS"> FreeCodeCamp Responsive Web Design Certification </a>
+  - <a href="https://www.frontendmentor.io/challenges"> Frontend Mentor </a>
+    - <a href="https://github.com/Pierrad/FrontendMentor_ProfileCard"> Frontend Mentor ProfileCard challenge </a>
+    - <a href="https://github.com/Pierrad/FrontendMentor_FAQ"> Frontend Mentor FAQ challenge </a>
+    - <a href="https://github.com/Pierrad/FrontendMentor_SocialProof"> Frontend Mentor SocialProof challenge </a>
 - ReactJS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
 - CodinGame
