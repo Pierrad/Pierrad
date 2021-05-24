@@ -35,6 +35,9 @@
     - <a href="https://github.com/Pierrad/FrontendMentor_SocialProof"> Frontend Mentor SocialProof challenge </a>
 - ReactJS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
+  - <a href="https://www.frontendmentor.io/challenges"> Frontend Mentor </a>
+    - <a href="https://github.com/Pierrad/FrontendMentor_ComingSoom"> Frontend Mentor ComingSoon challenge </a>
+    - <a href="https://github.com/Pierrad/FrontendMentor_LandingPage"> Frontend Mentor LandingPage challenge </a>
 - CodinGame
   - Lvl 14 (Python & Javascript) 
   - Coders Strike Back League Gold
