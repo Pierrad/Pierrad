@@ -39,7 +39,7 @@
     - <a href="https://github.com/Pierrad/FrontendMentor_ComingSoon"> Frontend Mentor ComingSoon challenge </a>
     - <a href="https://github.com/Pierrad/FrontendMentor_LandingPage"> Frontend Mentor LandingPage challenge </a>
 - CodinGame
-  - Lvl 14 (Python & Javascript) 
+  - Lvl 15 (Python & Javascript) 
   - Coders Strike Back League Gold
   - https://www.codingame.com/profile/e39c47b6d62de02097ac0e23966fbd203133923
   
