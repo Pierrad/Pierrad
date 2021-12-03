@@ -13,6 +13,8 @@
   - <a href = "https://github.com/Pierrad/Tetris_NodeJS"> Tetris Online</a>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a><br>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_ReactJS"> FreeCodeCamp Front End Librairies Certification </a><br>
+- Java
+  - <a href="https://github.com/Pierrad/CPOO---TD">Conception and implementation of an Alarm system</a><br>
 ### Projects :
 - <a href="https://github.com/Pierrad/Programmation/tree/master/Electron">Electron</a>
 - <a>Python </a>
@@ -27,6 +29,7 @@
 - JavaScript 
   - <a href = "https://github.com/Pierrad/Programmation/tree/master/Javascript/Tetris"> Tetris Online</a>
   - <a href="https://github.com/Pierrad/FreeCodeCamp_JavaScript"> FreeCodeCamp Javascript Certification </a>
+  - <a href="https://github.com/Pierrad/CPOO-Bonus">Conception and implementation of a basic recursive problem</a><br> 
 - HTML & CSS 
   - <a href="https://github.com/Pierrad/FreeCodeCamp_HTML_CSS"> FreeCodeCamp Responsive Web Design Certification </a>
   - <a href="https://www.frontendmentor.io/challenges"> Frontend Mentor </a>
@@ -38,6 +41,7 @@
   - <a href="https://www.frontendmentor.io/challenges"> Frontend Mentor </a>
     - <a href="https://github.com/Pierrad/FrontendMentor_ComingSoon"> Frontend Mentor ComingSoon challenge </a>
     - <a href="https://github.com/Pierrad/FrontendMentor_LandingPage"> Frontend Mentor LandingPage challenge </a>
+  - <a href="https://github.com/Pierrad/NDI-2021-Front">Front part of the 2021 edition of "La nuit de l'info"</a>
 - CodinGame
   - Lvl 15 (Python & Javascript) 
   - Coders Strike Back League Gold
