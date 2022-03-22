@@ -15,6 +15,7 @@
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/> <br/>
   - <a href="https://github.com/Pierrad/CPOO---TD">Conception and implementation of an Alarm system</a><br>
   - <a href="https://github.com/Pierrad/CPOO-Bonus">Conception, implementation and testing of a basic recursive problem</a><br> 
+  - <a href="https://github.com/Pierrad/DecentralizedChatApp">Decentralized P2P Messaging app</a><br/>
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
   - <a href="https://github.com/Pierrad/Programmation/tree/master/Python/BazarBizarre"> Star Wars BazarBizarre Game</a>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
