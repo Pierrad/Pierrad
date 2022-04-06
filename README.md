@@ -19,6 +19,7 @@
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
   - <a href="https://github.com/Pierrad/Programmation/tree/master/Python/BazarBizarre"> Star Wars BazarBizarre Game</a>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
+  - <a href="https://github.com/Pierrad/SneakersApp"> Sneakers web shop </a>  
   - <a href="https://github.com/Pierrad/Client-administration"> Client administration for a cooking site </a>
   - <a href="https://github.com/nexus9111/modelisation"> Modeling the propagation of COVID-19 with variants </a>
 
