@@ -28,6 +28,9 @@
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
 - <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <br/> 
   - <a href="https://github.com/Pierrad/AppBirthday">AppBirthday in React-Native</a>
+- <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />  <br />
+  - <a href="https://github.com/Pierrad/BotBackOfficeFront">Frontend of a Back-office for Bot management</a>
+  - <a href="https://github.com/Pierrad/BotBackOfficeBack">Backend of a Back-office for Bot management</a>
 
 ## Challenges
 
