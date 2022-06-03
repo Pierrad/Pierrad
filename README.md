@@ -20,13 +20,17 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
   - <a href="https://github.com/Pierrad/SneakersApp"> Sneakers web shop </a>  
   - <a href="https://github.com/Pierrad/Client-administration"> Client administration for a cooking site </a>
-  - <a href="https://github.com/nexus9111/modelisation"> Modeling the propagation of COVID-19 with variants </a>
+  - <a href="https://github.com/nexus9111/modelisation"> Modeling the propagation of COVID-19 with variants </a><br/><br/>
+- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <br/>
+  - <a href="https://github.com/Pierrad/SneakersReactApp"> React version of the Sneakers web shop </a><br/><br/>
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <br/> 
+  - <a href="https://github.com/Pierrad/Tandur-Meeting-App"> Mobile Meeting app </a>
 
 ## Personal projects
 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
   - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <br/> 
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <br/> 
   - <a href="https://github.com/Pierrad/AppBirthday">AppBirthday in React-Native</a>
 - <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />  <br />
   - <a href="https://github.com/Pierrad/BotBackOfficeFront">Frontend of a Back-office for Bot management</a>
