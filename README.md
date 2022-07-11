@@ -63,7 +63,7 @@
 
 
 ## GitHub Stats
-  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierrad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Pierrad" /></p>
-
 <p><img  src="https://github-readme-stats.vercel.app/api?username=Pierrad&show_icons=true&locale=en&theme=radical" alt="Pierrad" /></p>  
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrad&theme=radical&hide_border=false" alt="Pierrad" /></p>
+
