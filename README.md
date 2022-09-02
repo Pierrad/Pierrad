@@ -1,6 +1,8 @@
 # Hi 👋
 
-👨🏻‍💻 Mostly web developer but interested in all kind of teck & stack! 
+<b>👨🏻‍💻 Mostly web developer but interested in all kind of teck & stack!</b>
+<br />
+<br />
 
 ## Used daily
 
