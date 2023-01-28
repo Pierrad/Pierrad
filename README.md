@@ -4,28 +4,27 @@
 <br />
 <br />
 
-## Used daily
+## Used daily at Work | School
 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" />
-- <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  - <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" />
+    - <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 
 ## School projects
 
-- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <br/> 
-  - <a href="https://github.com/Pierrad/Tandur-Meeting-App"> Hybrid multicategories meeting app </a><br/><br/>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /><br/>
+  - <a href="https://github.com/Pierrad/Tandur-Meeting-App"> Tandur - an hybrid multicategories meeting app </a><br/><br/>
+- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /><br/>
+  - <a href="https://github.com/Pierrad/InstaDAM"> InstaDAM - a simple Instagram replica </a>
+  - <a href="https://github.com/Pierrad/InstaDAM_API"> Backend for the InstaDAM project </a><br/><br />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
   - <a href="https://github.com/Pierrad/SneakersApp"> Sneakers web shop </a>  
-  - <a href="https://github.com/nexus9111/modelisation"> Modeling the propagation of COVID-19 with variants </a>
-  - <a href="https://github.com/Pierrad/Client-administration"> Client administration for a cooking site </a>
-  - <a href="https://github.com/Pierrad/CPOO-Bonus">Conception, implementation and testing of a basic recursive problem</a><br/><br/>
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/> <br/>
-  - <a href="https://github.com/Pierrad/DecentralizedChatApp">Decentralized P2P Messaging app</a><br/>
-  - <a href="https://github.com/Pierrad/CPOO---TD">Conception and implementation of an Alarm system</a><br> <br />
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
+  - <a href="https://github.com/nexus9111/modelisation"> Modeling the propagation of COVID-19 with variants </a><br/><br/>
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/><br/>
+  - <a href="https://github.com/Pierrad/DecentralizedChatApp">Decentralized P2P Messaging app</a><br> <br />
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br />
   - <a href="https://github.com/Pierrad/Programmation/tree/master/Python/BazarBizarre"> Star Wars BazarBizarre Game</a><br/><br/>
-- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <br/>
-  - <a href="https://github.com/Pierrad/SneakersReactApp"> React version of the Sneakers web shop </a><br/><br/>
 
 ## Personal projects
 
