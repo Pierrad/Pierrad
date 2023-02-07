@@ -15,6 +15,9 @@
 
 - <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /><br/>
   - <a href="https://github.com/Pierrad/Tamou"> Tamou - an hybrid multicategories meeting app </a><br/><br/>
+- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  - <a href="https://github.com/Pierrad/GeoSpot"> GeoSpot - Explore the world & find gems around you </a>
+  - <a href="https://github.com/Pierrad/GeoSpot_API"> GeoSpot Backend API </a><br/><br/>
 - <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /><br/>
   - <a href="https://github.com/Pierrad/InstaDAM"> InstaDAM - a simple Instagram replica </a>
   - <a href="https://github.com/Pierrad/InstaDAM_API"> Backend for the InstaDAM project </a><br/><br />
