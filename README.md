@@ -65,3 +65,4 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrad&theme=radical&hide_border=false" alt="Pierrad" /></p>
 
+![](https://komarev.com/ghpvc/?username=Pierrad&color=red)
