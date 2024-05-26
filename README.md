@@ -3,6 +3,25 @@
 
 🔭 I’m currently working on learning **backend stuff** <br />
 
+## Personal projects
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /><br />
+<a href="https://github.com/Pierrad/obsidian-github-copilot" title="A bridge between Obsidian and Github Copilot"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=obsidian-github-copilot&theme=tokyonight"></a>
+<br /><br />
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /><br />
+<a href="https://github.com/Pierrad/SncfTrainTimes" title="Raycast extension to fetch train times for SNCF train lines"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=SncfTrainTimes&theme=tokyonight"></a>
+<a href="https://github.com/Pierrad/sncf-api-wrapper" title="Fully typed wrapper for the SNCF API"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=sncf-api-wrapper&theme=tokyonight"></a>
+<br /><br />
+
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <img src="https://img.shields.io/badge/nx-143055?style=flat&logo=nx&logoColor=white" alt="NX" /><br />
+<a href="https://github.com/Pierrad/TodoProject" title="NX Monorepo for a multiplatform TODO app"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=TodoProject&theme=tokyonight"></a>
+<br /><br />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
+  - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
+
 ## School projects
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /><br/>
@@ -26,25 +45,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/><br/>
 <a href="https://github.com/Pierrad/DecentralizedChatApp" title="Decentralized P2P Messaging app"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=DecentralizedChatApp&theme=tokyonight"></a>
 <br /><br />
-
-## Personal projects
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /><br />
-<a href="https://github.com/Pierrad/obsidian-github-copilot" title="A bridge between Obsidian and Github Copilot"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=obsidian-github-copilot&theme=tokyonight"></a>
-<br /><br />
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /><br />
-<a href="https://github.com/Pierrad/SncfTrainTimes" title="Raycast extension to fetch train times for SNCF train lines"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=SncfTrainTimes&theme=tokyonight"></a>
-<a href="https://github.com/Pierrad/sncf-api-wrapper" title="Fully typed wrapper for the SNCF API"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=sncf-api-wrapper&theme=tokyonight"></a>
-<br /><br />
-
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React-Native" /> <img src="https://img.shields.io/badge/nx-143055?style=flat&logo=nx&logoColor=white" alt="NX" /><br />
-<a href="https://github.com/Pierrad/TodoProject" title="NX Monorepo for a multiplatform TODO app"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pierrad&repo=TodoProject&theme=tokyonight"></a>
-<br /><br />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <br/>
-  - <a href="https://github.com/Pierrad/IA_Python/tree/master/Stock_Prediction">StockPrediction</a> 
 
 ## Challenges
 
